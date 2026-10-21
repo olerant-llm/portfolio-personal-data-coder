@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+data/
+*.enc
+*.log
+*_coded.*
+*_restored.*
+.env
+.env.*
+!.env.example
+
